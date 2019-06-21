@@ -13,6 +13,4 @@ This repository contains information on Cryospheric Sciences with ICESat-2 hackw
 | Cross-track | [https://github.com/ICESAT-2HackWeek/xtrak](https://github.com/ICESAT-2HackWeek/xtrak) | [#xtrak](https://icesat2hackweek2019.slack.com/messages/CKQ41KEMU)  |
 |Ground2Float | [https://github.com/ICESAT-2HackWeek/ground2float](https://github.com/ICESAT-2HackWeek/ground2float)| [#ground2float](https://icesat2hackweek2019.slack.com/messages/CKP5L28A1) |
 | Segtrax |[https://github.com/ICESAT-2HackWeek/segtrax](https://github.com/ICESAT-2HackWeek/segtrax) | [#segtrax](https://icesat2hackweek2019.slack.com/messages/CKQ08MBBR) | 
-| Swell | | [#swell](https://icesat2hackweek2019.slack.com/messages/CKN84MSCU) |
-| WiggleSat | | [#wigglesat](https://icesat2hackweek2019.slack.com/messages/CKN51V1S9) |
 | Topohack | [https://github.com/ICESAT-2HackWeek/topohack](https://github.com/ICESAT-2HackWeek/topohack) | [#topohack](https://icesat2hackweek2019.slack.com/messages/CKMVBRBLY) | 
