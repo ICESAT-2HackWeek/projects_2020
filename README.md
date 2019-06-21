@@ -8,7 +8,7 @@ This repository contains information on Cryospheric Sciences with ICESat-2 hackw
 | Crackup | [https://github.com/ICESAT-2HackWeek/crackup](https://github.com/ICESAT-2HackWeek/crackup) | [#crackup](https://icesat2hackweek2019.slack.com/messages/CKPTDB7JT) |
 | Floes are Swell | [https://github.com/ICESAT-2HackWeek/Floes-are-Swell](https://github.com/ICESAT-2HackWeek/Floes-are-Swell) | [#floz](https://icesat2hackweek2019.slack.com/messages/CKMF7ALKW) | 
 | GlacierSat2 | [https://github.com/ICESAT-2HackWeek/glaciersat2](https://github.com/ICESAT-2HackWeek/glaciersat2)| [#glaciersat2](https://icesat2hackweek2019.slack.com/messages/CKFJQ8QTB) |
-| WaterNoise | [https://github.com/ICESAT-2HackWeek/WaterNoice](https://github.com/ICESAT-2HackWeek/WaterNoice)| [#waternoise](https://icesat2hackweek2019.slack.com/messages/CKG6FJND7)| 
+| WaterNoice | [https://github.com/ICESAT-2HackWeek/WaterNoice](https://github.com/ICESAT-2HackWeek/WaterNoice)| [#waternoice](https://icesat2hackweek2019.slack.com/messages/CKG6FJND7)| 
 | SnowBlower | [https://github.com/ICESAT-2HackWeek/Snowblower](https://github.com/ICESAT-2HackWeek/Snowblower) | [#snowblower](https://icesat2hackweek2019.slack.com/messages/CKPQU1M39) |
 | Cross-track | [https://github.com/ICESAT-2HackWeek/xtrak](https://github.com/ICESAT-2HackWeek/xtrak) | [#xtrak](https://icesat2hackweek2019.slack.com/messages/CKQ41KEMU)  |
 |Ground2Float | [https://github.com/ICESAT-2HackWeek/ground2float](https://github.com/ICESAT-2HackWeek/ground2float)| [#ground2float](https://icesat2hackweek2019.slack.com/messages/CKP5L28A1) |
