@@ -15,5 +15,4 @@ This repository contains information on Cryospheric Sciences with ICESat-2 hackw
 | overcast | [https://github.com/ICESAT-2HackWeek/overcast](https://github.com/ICESAT-2HackWeek/overcast) | [#overcast](https://app.slack.com/client/TDPAXQSTD/C0158NU208N) |
 | crossovers | [https://github.com/ICESAT-2HackWeek/crossovers](https://github.com/ICESAT-2HackWeek/crossovers) | [#crossovers](https://app.slack.com/client/TDPAXQSTD/C0164TFT9PS1) |
 | surface_velocity | [https://github.com/ICESAT-2HackWeek/surface_velocity](https://github.com/ICESAT-2HackWeek/surface_velocity) | [#surface_velocity](https://app.slack.com/client/TDPAXQSTD/C0161PY8Z8Q) |
-| surface_classification | [https://github.com/ICESAT-2HackWeek/surface_classification](https://github.com/ICESAT-2HackWeek/surface_classification) | [#??]() |
 | Assimilation | [https://github.com/ICESAT-2HackWeek/Assimilation](https://github.com/ICESAT-2HackWeek/Assimilation) | [#assimilation](https://app.slack.com/client/TDPAXQSTD/C015DA0AH2N) |
